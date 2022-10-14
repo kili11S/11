@@ -1,0 +1,21 @@
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\bin\Debug\Bio.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\bin\Debug\Bio.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\bin\Debug\Bio.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Bio\Bio\obj\Debug\Bio.pdb
+C:\C#\Биоритмы\Bio\bin\Debug\Bio.exe.config
+C:\C#\Биоритмы\Bio\bin\Debug\Bio.exe
+C:\C#\Биоритмы\Bio\bin\Debug\Bio.pdb
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.csproj.AssemblyReference.cache
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.csproj.SuggestedBindingRedirects.cache
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.Form1.resources
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.Properties.Resources.resources
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.csproj.GenerateResource.cache
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.csproj.CoreCompileInputs.cache
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.exe
+C:\C#\Биоритмы\Bio\obj\Debug\Bio.pdb

@@ -1,0 +1,7 @@
+C:\Users\stud\source\repos\Treugolnik\obj\Debug\Treugolnik.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\Treugolnik\obj\Debug\Treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Treugolnik\bin\Debug\Treugolnik.exe.config
+C:\Users\stud\source\repos\Treugolnik\bin\Debug\Treugolnik.exe
+C:\Users\stud\source\repos\Treugolnik\bin\Debug\Treugolnik.pdb
+C:\Users\stud\source\repos\Treugolnik\obj\Debug\Treugolnik.exe
+C:\Users\stud\source\repos\Treugolnik\obj\Debug\Treugolnik.pdb

@@ -1,0 +1,32 @@
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.runtimeconfig.dev.json
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.dll
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ref\ArmStrong.dll
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.dll
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ref\ArmStrong.dll
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.genruntimeconfig.cache
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.exe
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.deps.json
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.runtimeconfig.json
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.runtimeconfig.dev.json
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.dll
+C:\C#\ArmStrong\ArmStrong\bin\Debug\net5.0\ArmStrong.pdb
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.csproj.AssemblyReference.cache
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.AssemblyInfoInputs.cache
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.AssemblyInfo.cs
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.csproj.CoreCompileInputs.cache
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.dll
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\refint\ArmStrong.dll
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.pdb
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ArmStrong.genruntimeconfig.cache
+C:\C#\ArmStrong\ArmStrong\obj\Debug\net5.0\ref\ArmStrong.dll

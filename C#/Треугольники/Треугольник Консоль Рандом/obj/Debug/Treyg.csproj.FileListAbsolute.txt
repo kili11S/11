@@ -1,0 +1,7 @@
+C:\Users\stud\source\repos\Treyg\bin\Debug\Treyg.exe.config
+C:\Users\stud\source\repos\Treyg\bin\Debug\Treyg.exe
+C:\Users\stud\source\repos\Treyg\bin\Debug\Treyg.pdb
+C:\Users\stud\source\repos\Treyg\obj\Debug\Treyg.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\Treyg\obj\Debug\Treyg.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Treyg\obj\Debug\Treyg.exe
+C:\Users\stud\source\repos\Treyg\obj\Debug\Treyg.pdb

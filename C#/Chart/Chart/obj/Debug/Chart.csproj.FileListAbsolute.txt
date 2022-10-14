@@ -1,0 +1,10 @@
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Chart\Chart\obj\Debug\Chart.FormOfChart.resources

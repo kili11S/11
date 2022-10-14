@@ -1,0 +1,61 @@
+C:\Users\artem\source\repos\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\artem\source\repos\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\artem\source\repos\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\artem\source\repos\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csprojAssemblyReference.cache
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\stud\204 Зинин\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Goroskop (2)\Goroskop\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\artem\OneDrive\Рабочий стол\Кодики\C#\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\C#\Goroskop\Goroskop\bin\Debug\Goroskop.exe.config
+C:\C#\Goroskop\Goroskop\bin\Debug\Goroskop.exe
+C:\C#\Goroskop\Goroskop\bin\Debug\Goroskop.pdb
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.SuggestedBindingRedirects.cache
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.exe
+C:\C#\Goroskop\Goroskop\obj\Debug\Goroskop.pdb
