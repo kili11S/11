@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Storage App</title>
+</head>
+<body>
+    <h1>Material List</h1>
+    <ul>
+        {% for material_item in material %}
+            <li>{{ material_item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Storages List</h1>
+    <ul>
+        {% for storage_item in storages %}
+            <li>{{ storage_item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h1>Suppliers List</h1>
+    <ul>
+        {% for supplier_item in suppliers %}
+            <li>{{ supplier_item }}</li>
+        {% endfor %}
+    </ul>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
