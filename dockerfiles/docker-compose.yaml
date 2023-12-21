@@ -1,0 +1,70 @@
+services:
+  postgres:
+    image: docker.io/postgres:16.0
+    environment:
+      POSTGRES_DB: "storagedb"
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_NODE_TYPE: "master"
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-U", "postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - "./storagedb.sql:/docker-entrypoint-initdb.d/storagedb.sql"
+      - "./postrepl.sh:/docker-entrypoint-initdb.d/postrepl.sh"
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    
+  postgres-reserve:
+    image: docker.io/postgres:16.0
+    environment:
+      POSTGRES_PASSWORD: "password"
+      POSTGRES_NODE_TYPE: "slave"
+    volumes:
+      - "./storagedb.sql:/docker-entrypoint-initdb.d/storagedb.sql"
+      - "./postrepl.sh:/docker-entrypoint-initdb.d/postrepl.sh"
+    ports:
+      - "5433:5433"
+    restart: unless-stopped  
+
+  pgadmin4:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "dfrseva@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "password"
+    ports:
+      - "80:80"
+    restart: unless-stopped
+  
+  grafana:
+    image: grafana/grafana:8.5.3
+    ports:
+      - "3000:3000"
+  
+  prometheus:
+    build:
+      context: ../dockerfiles
+    ports:
+      - "9090:9090"
+    volumes:
+      - "./prometheus.yml:/etc/prometheus/prometheus.yml:ro"
+  
+  postgres-exporter:
+    image: bitnami/postgres-exporter:0.15.0
+    ports:
+      - "9187:9187"
+    environment:
+      DATA_SOURCE_NAME: "postgresql://postgres:password@postgres:5432/storagedb?sslmode=disable"
+    links:
+      - "postgres"
+      - "prometheus"
+
+  backend:
+    build:
+      context: backend/
+    volumes:
+      - "./backend/:/root/dockerfiles/backend"
+    ports:
+      - "8002:8002"
