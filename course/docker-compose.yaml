@@ -1,0 +1,86 @@
+services:
+  postgres:
+    image: docker.io/postgres:16.0
+    build:
+      context: ./postgres/
+    container_name: postgres
+    environment:
+      POSTGRES_DB: "storagedb"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "password"
+    volumes:
+      - ./storagedb.sql:/docker-entrypoint-initdb.d/storagedb.sql
+      - storagedb-data:/var/lib/postgresql/data
+      - ~/course/backup-data:/backup-data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 10s
+      retries: 5
+      timeout: 5s
+    restart: unless-stopped
+    ports: 
+      - "5432:5432"
+    labels:
+      deck-chores.dump.command: sh -c "exec pg_dump -U postgres -d storagedb > backup-data/deckchoresdump.sql" 
+      deck-chores.dump.cron: "* * * * * * */5 0"
+
+  deck-chores:
+    image: docker.io/funkyfuture/deck-chores:1
+    container_name: backups
+    restart: unless-stopped
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+  
+  postgres-exporter:
+    image: bitnami/postgres-exporter:0.15.0
+    container_name: postgres-exporter
+    ports: 
+      - "9187:9187"
+    environment:
+      DATA_SOURCE_NAME: "postgresql://postgres:password@postgres:5432/storagedb?sslmode=disable"
+    links:
+      - "postgres"
+      - "prometheus"
+
+  prometheus:
+    build:
+      context: ./prometheus/
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - "./prometheus/prometheus.yml:/etc/prometheus.yml:ro"
+   
+  grafana:
+    image: grafana/grafana:8.5.3
+    container_name: grafana
+    ports: 
+      - "3000:3000"
+    volumes:
+      - ./grafana/:/etc/grafana/proviosioning/dashboards/
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+
+  backend-server-4-1:
+    container_name: backend-server
+    build:
+      context: backend/
+    ports: 
+      - "5000:5000"   
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "admin@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "password"
+      PGADMIN_LISTEN_ADDRESS: "postgres"
+      PGADMIN_LISTEN_PORT: "5432"
+      PGADMIN_USER: "postgres"
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    tty: true
+
+volumes:
+  storagedb-data:
+  backup-data:

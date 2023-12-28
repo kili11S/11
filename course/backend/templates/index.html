@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" conent="width-device-width, initial-scale=1.0">
+    <title>N</title>
+</head>
+<body>
+<h1>Materials</h1>
+
+<ul>
+  {% for material in materials %}
+    <li>{{ material[0] }} - {{ material[1] }} - {{ material[2] }} </li>
+  {% endfor %}
+</ul>
+<a href="{{url_for('create') }}" style="font-size:16"> Add new one </a> 
+<h1>Storages</h1>
+  {% for storage in storages%}
+   <li>{{ storage[0] }} - {{ storage[1] }} - {{ storage[2] }} </li>
+  {% endfor %}
+
+<h1>Suppliers</h1>
+  {% for supplier in suppliers %}
+   <li>{{ supplier[0] }} - {{ supplier[1] }} - {{ supplier[2] }} </li>
+  {% endfor %}
+
+<h1>Requestors</h1>
+  {% for requestor in requestors %}
+   <li>{{ requestor[0] }} - {{ requestor[1] }} - {{ requestor[2] }} </li>
+  {% endfor %}
+
+<h1>Views</h1>
+<h2>Stored</h2>
+  {% for stored in storage_view_logs %}
+   <li>{{ stored[0] }} - {{ stored[1] }} - {{ stored[2] }} </li>
+  {% endfor %}
+
+<h2>Supplied</h2>
+  {% for logsS in S_logs %}
+   <li>{{ logsS[0] }} - {{ logsS[1] }} - {{ logsS[2] }} - {{ logsS[3] }} - {{ logsS[4] }}</li>
+  {% endfor %}
+
+<h2>Requested</h2>
+  {% for logsR in R_logs %}
+   <li>{{ logsR[0] }} - {{ logsR[1] }} - {{ logsR[2] }} - {{ logsR[3] }} - {{ logsR[4] }}</li>
+  {% endfor %}
+
+</body>
+</html>
